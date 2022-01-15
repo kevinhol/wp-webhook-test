@@ -1,1 +1,0 @@
-<?php echo "THIS IS A TEST BUT SHOULD BE IGNORED"; ?>
