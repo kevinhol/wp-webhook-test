@@ -21,3 +21,4 @@ wp-config-hosting.php
 db-config.php
 sitemap.xml.gz
 .DS_Store
+testfile.xml
