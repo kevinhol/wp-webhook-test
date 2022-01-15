@@ -1,0 +1,1 @@
+<?php echo "TEST THEME ADDED TO BOTH SITES" ; ?>
