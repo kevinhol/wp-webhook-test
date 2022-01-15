@@ -16,6 +16,7 @@ xmlrpc.php
 wp-content/cache/
 wp-content/backups/
 wp-content/object-cache.php
+wp-content/BAK_object-cache.php
 wp-content/mu-plugins/pagely*
 wp-config-hosting.php
 db-config.php
