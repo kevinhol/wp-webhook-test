@@ -22,3 +22,5 @@ db-config.php
 sitemap.xml.gz
 .DS_Store
 testfile.xml
+
+wp-content/languages
